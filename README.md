@@ -4,7 +4,7 @@
 - 📫 How to reach me : abdis.worker@gmail.com
 
 
-###  Data Science Experience & Skills
+###  Data Science Experiences & Skills
 - 💼 Data Science Bootcamp by Bisa.ai
 - 💼 Data Professional Career in Data Science by DQLAB
 - 💼 Working with Supervised and Unsupervised Data Machine Learning (2 years~)
