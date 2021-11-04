@@ -7,10 +7,10 @@
 ###  Data Science Experiences & Skills
 - 💼 Data Science Bootcamp by Bisa.ai
 - 💼 Data Professional Career in Data Science by DQLAB
-- 💼 Working with Supervised and Unsupervised Data Machine Learning (2 years~)
+- 💼 Working with Supervised and Unsupervised Data (2 years~)
 - 💼 Working with Database (4 years ~)
 - 💼 Working with SQL Query (4 years ~)
-- 💼 Working with Database (4 years ~)
+- 💼 Working with Data (4 years ~)
 - 📖 R programming
 - 📖 Python programming
 - 📖 Matlab programming
