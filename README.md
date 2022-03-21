@@ -10,7 +10,6 @@
 - 💼 Working with Supervised and Unsupervised Data (2 years~)
 - 💼 Working with Database (4 years ~)
 - 💼 Working with SQL Query (4 years ~)
-- 💼 Working with Data (4 years ~)
 - 📖 R programming
 - 📖 Python programming
 - 📖 Matlab programming
