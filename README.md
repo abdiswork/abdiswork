@@ -22,4 +22,15 @@
 - 💼 Python Web Scraping
 - 👀 Works and Certifications Can Be Found Here (https://github.com/abdiswork/Information-Retrieval)
 
+
+###  Game Development
+- 💼 Portofolio on Android Marketplace : https://play.google.com/store/apps/developer?id=Joy+Leap+Innovations 
+- 💼 Developing Game for an event (cooperation with Mizone / PT. Tirta Investama)
+- 💼 Developing Game for an event (cooperation with LA Lights Cigarette)
+- 💼 Developing Charity Game
+- 💼 Developing Game to Introduce Javanese Culture (Construct 2)
+- 💼 Developing an event game for Development Basketball League Surabaya (cooperation with Loop-Telkomsel Provider)
+- 💼 Developing Augmented Reality Game
+- 💼 Developing Virtual Reality Game
+
 <!--- Thank You --->
