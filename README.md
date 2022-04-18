@@ -24,7 +24,8 @@
 
 
 ###  Game Development
-- 💼 Portofolio on Android Marketplace : https://play.google.com/store/apps/developer?id=Joy+Leap+Innovations 
+- 💼 Portofolio on Android Marketplace : https://play.google.com/store/apps/developer?id=Joy+Leap+Innovations
+- 💼 Portofolio on Android Marketplace : https://play.google.com/store/apps/dev?id=5473609356611871510
 - 💼 Developing Game for an event (cooperation with Mizone / PT. Tirta Investama)
 - 💼 Developing Game for an event (cooperation with LA Lights Cigarette)
 - 💼 Developing Charity Game
