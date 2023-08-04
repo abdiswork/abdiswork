@@ -26,6 +26,8 @@
 ###  Game Development
 - 💼 Portofolio on Android Marketplace : https://play.google.com/store/apps/developer?id=Joy+Leap+Innovations
 - 💼 Portofolio on Android Marketplace : https://play.google.com/store/apps/dev?id=5473609356611871510
+- 💼 Portofolio on Android Marketplace : https://play.google.com/store/apps/details?id=com.SEMISOFT.bosd&gl=id
+- 💼 Portofolio on IOS Marketplace : Battle of Satria Dewa (Limited to Indonesia Region)
 - 💼 Developing Game for an event (cooperation with Mizone / PT. Tirta Investama)
 - 💼 Developing Game for an event (cooperation with LA Lights Cigarette)
 - 💼 Developing Charity Game
