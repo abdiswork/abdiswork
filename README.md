@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdullah Iskandar
-- 👀 I’m interested in Software Engineer, Game Development, Web Development Backend and Front-end, Data Science, Data Analyst, Data Engineering and Information Retrieval
-- 🌱 I’m currently learning in Waseda University as Master Degree of Computer Science
-- 📫 How to reach me : abdis.worker@gmail.com
+- 👀 I’m interested in Software engineering, Game Development, Web Development Backend and Front-end, Data Science, Data Analyst, Data Engineering and Information Retrieval
+- 🌱 I’m currently learning at Waseda University a Doctoral Degree in Computer Science
+- 📫 How to reach me: abdis.worker@gmail.com
 
 ###  Web Development Experiences & Skills
 - 💼 PHP Development
