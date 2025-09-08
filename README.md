@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning at Waseda University a Doctoral Degree in Computer Science
 - 📫 How to reach me: abdis.worker@gmail.com
 
-###  Web Development Experiences & Skills
-- 💼 PHP Development
+###  Web & App Development Experiences & Skills
+- 💼 PHP, React, Typescript, JS, Css, NodeJS, Go, Flutter
+- Checkout my full work https://abdisdev.com/
 - 👀 Works and Certifications Can Be Found Here (https://github.com/abdiswork/Web-Development)
 
 ###  Data Science Experiences & Skills
